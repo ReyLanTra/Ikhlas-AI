@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ikhlas.AI - Reyzar",
+  "description": "A luxurious, modern, and spiritually-inspired AI chatbot providing intelligent guidance and productivity tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
